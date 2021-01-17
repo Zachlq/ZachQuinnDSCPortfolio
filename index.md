@@ -4,7 +4,7 @@
 
 ### Featured Projects
 
-[Project 1: Predicting Churn in Massive Open Online Courses Using Multivariable Logistic Regression](/sample_page)
+[Project 1: Predicting Churn in Massive Open Online Courses Using Multivariable Logistic Regression](https://github.com/Zachlq/ZachQuinnDSCPortfolio/blob/master/Projects/Predicting_Churn_MOOC.ipynb)
 <img src="images/Screen Shot 2021-01-17 at 6.12.36 PM.png?raw=true"/>
 
 ---
