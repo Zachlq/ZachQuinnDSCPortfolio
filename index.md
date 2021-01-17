@@ -9,11 +9,11 @@
 
 [Forecasting Stock Price Changes Using LSTM](/Zachlq/ZachQuinnDSCPortfolio/tree/master/Projects/Stock%20Market%20LSTM%20Notebooks) 
 <img src="images/stock_amzn.jpg?raw=true"/>
----
+
 [Comparative Methodologies for Detecting Fake News](/Zachlq/ZachQuinnDSCPortfolio/blob/master/Projects/Zach_Quinn_DSC_550_FinalProj.ipynb)
 <img src="images/fake_news.jpg?raw=true"/>
 
----
+
 
 ### Other Work 
 
