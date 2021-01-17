@@ -2,9 +2,9 @@
 
 ---
 
-### Project 1: Predicting Churn in Massive Open Online Courses Using Multivariable Logistic Regression
+### Top Projects
 
-[Project 1 Title](/sample_page)
+[Project 1: Predicting Churn in Massive Open Online Courses Using Multivariable Logistic Regression](/sample_page)
 <img src="images/Screen Shot 2021-01-17 at 6.12.36 PM.png?raw=true"/>
 
 ---
