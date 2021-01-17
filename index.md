@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Project 1: Predicting Churn in Massive Open Online Courses Using Multivariable Logistic Regression
 
 [Project 1 Title](/sample_page)
 <img src="images/Screen Shot 2021-01-17 at 6.12.36 PM.png?raw=true"/>
