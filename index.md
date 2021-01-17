@@ -2,7 +2,7 @@
 
 ---
 
-### Top Projects
+### Featured Projects
 
 [Project 1: Predicting Churn in Massive Open Online Courses Using Multivariable Logistic Regression](/sample_page)
 <img src="images/Screen Shot 2021-01-17 at 6.12.36 PM.png?raw=true"/>
@@ -12,8 +12,8 @@
 <img src="images/stock_amzn.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3: Comparative Methodologies for Detecting Fake News](http://example.com/)
+<img src="images/fake_news.jpg?raw=true"/>
 
 ---
 
