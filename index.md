@@ -6,7 +6,7 @@
 
 [Predicting Churn in MOOCs Using Multivariable Logistic Regression](/Zachlq/ZachQuinnDSCPortfolio/blob/master/Projects/Predicting_Churn_MOOC.ipynb)
 <img src="images/Screen Shot 2021-01-17 at 6.12.36 PM.png?raw=true"/>
----
+
 [Forecasting Stock Price Changes Using LSTM](/Zachlq/ZachQuinnDSCPortfolio/tree/master/Projects/Stock%20Market%20LSTM%20Notebooks) 
 <img src="images/stock_amzn.jpg?raw=true"/>
 ---
