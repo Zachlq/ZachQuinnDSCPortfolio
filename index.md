@@ -9,7 +9,7 @@
 
 ---
 [Project 2: Forecasting Stock Price Changes in Companies Impacted by COVID-19](/pdf/sample_presentation.pdf)
-<img src="images/amzn_stock.jpg?raw=true"/>
+<img src="images/stock_amzn.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
