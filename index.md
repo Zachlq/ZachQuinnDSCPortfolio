@@ -8,8 +8,8 @@
 <img src="images/Screen Shot 2021-01-17 at 6.12.36 PM.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2: Forecasting Stock Price Changes in Companies Impacted by COVID-19](/pdf/sample_presentation.pdf)
+<img src="images/amzn_stock.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
