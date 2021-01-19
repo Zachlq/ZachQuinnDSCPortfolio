@@ -1,10 +1,11 @@
 title: Zach Quinn # your name (or website title) here
 logo: "/images/ZQ_LinkedIn.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  About:
   Combining predictive analytic, machine learning, analysis and data visualization skill sets 
   and leveraging journalistic training to lead, communicate and present complex topics to non-technical audiences
   <br><br>
-  <a href="https://www.linkedin.com/in/zach-l-quinn/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/zach-l-quinn/">Contact (via LinkedIn)</a> 
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
