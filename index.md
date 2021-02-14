@@ -15,7 +15,7 @@
 
 
 
-### [About] (https://github.com/Zachlq/ZachQuinnDSCPortfolio/blob/master/sample_page.md)
+### [About](/https://github.com/Zachlq/ZachQuinnDSCPortfolio/blob/master/sample_page.md)
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
