@@ -15,4 +15,4 @@
 
 
 
-### [About](/https://github.com/Zachlq/ZachQuinnDSCPortfolio/blob/master/sample_page.md)
+### [About](/https://github.com/Zachlq/ZachQuinnDSCPortfolio/blob/master/About_Me.md)
