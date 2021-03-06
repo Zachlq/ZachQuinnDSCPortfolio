@@ -2,7 +2,7 @@
 
 ---
 
-### Featured Projects
+### Featured Projects:
 
 [Predicting Churn in MOOCs Using Multivariable Logistic Regression](/Zachlq/ZachQuinnDSCPortfolio/blob/master/Projects/Predicting_Churn_MOOC.ipynb)
 <img src="images/Screen Shot 2021-01-17 at 6.12.36 PM.png?raw=true"/>
@@ -13,6 +13,8 @@
 [Comparative Methodologies for Detecting Fake News](/Zachlq/ZachQuinnDSCPortfolio/blob/master/Projects/Zach_Quinn_DSC_550_FinalProj.ipynb)
 <img src="images/fake_news.jpg?raw=true"/>
 
-
+### Other Projects:
 
 ### [About](https://github.com/Zachlq/ZachQuinnDSCPortfolio/blob/master/About_Me.md)
+
+### [Contact](https://github.com/Zachlq/ZachQuinnDSCPortfolio/blob/master/Contact.md)
