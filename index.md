@@ -4,7 +4,7 @@
 
 ### Featured Projects:
 
-[Predicting Churn in MOOCs Using Multivariable Logistic Regression](/Zachlq/ZachQuinnDSCPortfolio/blob/master/Projects/Predicting_Churn_MOOC.ipynb)
+[Predicting Churn in MOOCs Using Multivariable Logistic Regression](https://github.com/Zachlq/Professional_Portfolio/tree/main/Predicting%20Churn%20in%20MOOCs)
 <img src="images/Screen Shot 2021-01-17 at 6.12.36 PM.png?raw=true"/>
 
 [Forecasting Stock Price Changes Using LSTM](/Zachlq/ZachQuinnDSCPortfolio/tree/master/Projects/Stock%20Market%20LSTM%20Notebooks) 
@@ -14,6 +14,11 @@
 <img src="images/fake_news.jpg?raw=true"/>
 
 ### Other Projects:
+
+[COVID-19 SQL Database](/https://github.com/Zachlq/Professional_Portfolio/tree/main/COVID-19%20SQL%20Database)
+
+[Predicting Student Debt Default Rates](https://github.com/Zachlq/Professional_Portfolio/tree/main/Predicting_Student_Debt_Default)
+
 
 ### [About](https://github.com/Zachlq/ZachQuinnDSCPortfolio/blob/master/About_Me.md)
 
